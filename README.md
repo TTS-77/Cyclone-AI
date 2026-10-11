@@ -1,4 +1,4 @@
-# AI-Based Cyclone Detection, Intensity Estimation and Trajectory Prediction
+# AI-Based Cyclone Detection, Intensity Estimation and the Trajectory Prediction
 
 An AI/ML system for cyclone detection, intensity estimation and
 trajectory prediction over the North Indian Ocean.
